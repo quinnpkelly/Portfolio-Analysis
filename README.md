@@ -21,3 +21,4 @@ This file contains a few of the programming projects that I have completed at th
      - Users can search commits by id, receive the name, format, and ID of a desired commit
      - Users may also synchronize multiple repositories into a single one, which will preserve the time order associated with each commit,
            which is determined by each unique ID
+     - J-Unit testing is included, to ensure that the repository produces the correct output for each method
